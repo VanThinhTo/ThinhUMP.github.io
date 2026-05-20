@@ -11,26 +11,28 @@ redirect_from:
 
 Personal information
 ======
-I am Van Thinh To, a ungraduate student in the Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City. My research interests are applying machine learning and deep learning techniques to solving challenging problems in pharmaceutical chemistry, drug discovery, and computational chemistry. This is my blog, where I store my projects and some fundamental code for my research.
+I am Van-Thinh To, an Erasmus Mundus scholar in a double-degree master's program in Bioinformatics at University Paris Cite and Chemistry at the University of Milan. My research focuses on machine learning, cheminformatics, molecular representation, and virtual screening for drug discovery.
+
+I previously completed a five-year Bachelor of Pharmacy at the University of Medicine and Pharmacy at Ho Chi Minh City, where my thesis focused on knowledge-guided graph self-supervised learning for molecular property prediction.
 
 
 Research interests
 ======
-My primary research interests involve:  
-- Development of Quantitative Structure-Activity Relationships (QSAR) models using machine learning algorithms
-- Computer-aided drug design methodologies developement
-- Molecular representation based on background model from unlabeled data
+My primary research interests involve:
+- Knowledge-guided molecular representation learning and graph neural networks
+- Large-scale bioactivity data curation from PubChem and ChEMBL
+- Target-specific machine learning scoring functions for virtual screening
+- Generative AI and computer-aided drug design workflows
 
 My research focuses on three main problems in drug discovery:
-1. **Molecular representation**: how can we use unlabeled data (more than billions) to make features more generalizable? How can we vectorize steroisomerism information (conformation and ensemble conformation) from graph data?
-2. **Generative molecules**: given a target (protein) and database of active-inactive molecules, how can we generate agonists/antagonists?
-3. **Retrosynthesis strategy**: given a set of compounds and conditions, which compounds could be synthesized, and what is the probability of this reaction?
+1. **Molecular representation**: how can molecular graphs encode chemical knowledge, orbital information, and structural hierarchy to improve property prediction?
+2. **Virtual screening**: how can curated bioactivity data and target-specific scoring functions improve hit identification?
+3. **Generative molecules**: how can generated molecules be evaluated and optimized for target-specific activity?
 
 
-Our team - MedAI
+Current work
 ------
-Established in 2021 with students from the organic chemistry sector, we try to catch up with the innovation of artificial intelligence in drug discovery.
-
+At University Paris Cite, I work on automated retrieval of bioactivity data from PubChem and ChEMBL, dark chemical matter selection, and benchmarking data sets for virtual screening. My recent work also includes target-specific scoring functions for cystathionine beta-synthase inhibitors and generative AI projects for EGFR and VEGFR.
 
 
 
