@@ -11,9 +11,9 @@ title                    : "Van-Thinh To"
 title_separator          : "-"
 name                     : &name "Van-Thinh To"
 description              : &description "Erasmus Mundus scholar in bioinformatics and chemistry researching machine learning, cheminformatics, and drug discovery."
-url                      : 1 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "" # intentionally blank while GitHub Pages is disabled
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "VanThinhTo/VanThinhTo.github.io"
+repository               : "VanThinhTo/ThinhUMP.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=VcxHOpAAAAAJ&hl=en&oi=ao"
   email            : "van-thinh.to@etu.u-paris.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://VanThinhTo.github.io/"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
